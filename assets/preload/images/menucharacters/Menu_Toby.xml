@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Toby.png"><SubTexture name="Menu_Toby idle0000" x="0" y="0" width="224" height="194" frameX="0" frameY="0" frameWidth="224" frameHeight="194" />
+<SubTexture name="Menu_Toby idle0001" x="224" y="0" width="224" height="194" frameX="0" frameY="0" frameWidth="224" frameHeight="194" />
+<SubTexture name="Menu_Toby idle0002" x="448" y="0" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="Menu_Toby idle0003" x="652" y="0" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+</TextureAtlas>

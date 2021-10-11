@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toby.png"><SubTexture name="toby idle0000" x="0" y="0" width="224" height="194" frameX="0" frameY="0" frameWidth="224" frameHeight="194" />
+<SubTexture name="toby idle20000" x="224" y="0" width="224" height="194" frameX="0" frameY="0" frameWidth="224" frameHeight="194" />
+<SubTexture name="toby idle30000" x="448" y="0" width="224" height="194" frameX="0" frameY="0" frameWidth="224" frameHeight="194" />
+<SubTexture name="toby idle40000" x="672" y="0" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="toby idle50000" x="0" y="194" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="toby idle60000" x="204" y="194" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="toby left0000" x="408" y="194" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="toby left20000" x="612" y="194" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="toby left30000" x="0" y="388" width="204" height="194" frameX="0" frameY="0" frameWidth="204" frameHeight="194" />
+<SubTexture name="toby up0000" x="204" y="388" width="214" height="194" frameX="0" frameY="0" frameWidth="214" frameHeight="194" />
+<SubTexture name="toby up20000" x="418" y="388" width="214" height="194" frameX="0" frameY="0" frameWidth="214" frameHeight="194" />
+<SubTexture name="toby up30000" x="632" y="388" width="214" height="194" frameX="0" frameY="0" frameWidth="214" frameHeight="194" />
+<SubTexture name="toby down0000" x="0" y="582" width="264" height="194" frameX="0" frameY="0" frameWidth="264" frameHeight="194" />
+<SubTexture name="toby down20000" x="264" y="582" width="274" height="194" frameX="0" frameY="0" frameWidth="274" frameHeight="194" />
+<SubTexture name="toby down30000" x="538" y="582" width="274" height="194" frameX="0" frameY="0" frameWidth="274" frameHeight="194" />
+<SubTexture name="toby right0000" x="812" y="582" width="274" height="184" frameX="0" frameY="0" frameWidth="274" frameHeight="184" />
+<SubTexture name="toby right20000" x="0" y="776" width="284" height="194" frameX="0" frameY="0" frameWidth="284" frameHeight="194" />
+<SubTexture name="toby right30000" x="284" y="776" width="284" height="194" frameX="0" frameY="0" frameWidth="284" frameHeight="194" />
+</TextureAtlas>

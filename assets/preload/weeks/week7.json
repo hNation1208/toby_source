@@ -1,0 +1,48 @@
+{
+	"storyName": "thank you toby",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"toby",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"dogsong",
+			"toby",
+			[
+				255,
+				235,
+				253
+			]
+		],
+		[
+			"doggone",
+			"toby",
+			[
+				255,
+				235,
+				253
+			]
+		],
+		[
+			"artifact",
+			"toby",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week dog"
+}

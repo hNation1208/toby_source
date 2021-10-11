@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "boop de bai",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bork bork woof???",
+			"boxState": "normal",
+			"portrait": "tobydialogue",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "boop.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "boop er ba be be boop bai",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "woof bork!",
+			"boxState": "normal",
+			"portrait": "tobydialogue",
+			"speed": 0.05
+		}
+	]
+}

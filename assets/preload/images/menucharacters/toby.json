@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Menu_Toby idle",
+	"idle_anim": "Menu_Toby idle",
+	"position": [
+		42,
+		-92
+	],
+	"scale": 1.2,
+	"image": "Menu_Toby"
+}
